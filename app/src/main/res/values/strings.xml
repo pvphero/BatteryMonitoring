@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BatteryMonitoring</string>
+    <string name="device_battery">手机电量</string>
+</resources>
